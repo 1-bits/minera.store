@@ -1,0 +1,2 @@
+# minera.store
+home
